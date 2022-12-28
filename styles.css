@@ -325,6 +325,38 @@ border:1px solid greenyellow;
     transition: all 0.2s ease-out;
 }
 
+.link-section{
+
+    margin-top: 42px;
+    margin-left: 160px;
+}
+
+.githublink,.viewlink{
+    margin-left:24px;
+}
+
+
+.githublink img:hover,.viewlink img:hover{
+    transform: scale(1.1);
+    transition: all 0.2s ease-out;
+}
+
+.card .title{
+
+    color:#118d7c;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.link-section>img:first-of-type:hover{
+    transform: scale(1.1);
+    transition: all 0.2s ease-out;
+}
+
+
+
+
+
 
 .announcements{
 
